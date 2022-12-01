@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
+// {
+// 	"workspaceFolder": "/home/chris/rust",
+// 	"extensions": [
+// 		"bungcip.better-toml",
+// 		"evgeniypeshkov.syntax-highlighter",
+// 		"JScearcy.rust-doc-viewer",
+// 		"serayuzgur.crates",
+// 		"statiolake.vscode-rustfmt",
+//      "rust-lang.rust-analyzer",
+// 		"ZhangYue.rust-mod-generator"
+// 	]
+// }
