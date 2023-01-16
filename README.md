@@ -13,10 +13,10 @@ docker compose build
 
 ```sh
 cd .docker
-docker compose run rust
+docker compose up --detach
 ```
 
-# Compile 
+## Compile 
 
 In the folder for each day either use 
 
@@ -30,4 +30,6 @@ or for larger projects
 cargo run
 ```
 
+## VC Code
 
+Use dev container extension in VS Code and attach to runnning container
